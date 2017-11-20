@@ -6,14 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/IanDoyle01/angular-todo.git"
-  },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/IanDoyle01/angular-todo/issues"
-  },
-  "homepage": "https://github.com/IanDoyle01/angular-todo#readme"
+  "license": "ISC"
 }
